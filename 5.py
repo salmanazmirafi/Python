@@ -40,5 +40,5 @@ print(x + y)
 print(len(name+name2))
 
 name = "Salman is my future ------"
-y = name.replace('------', "Name")
+y = name.replace('-------', "Name")
 print(y)

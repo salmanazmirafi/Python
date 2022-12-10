@@ -8,5 +8,5 @@ x = input("Enter Number One : ")
 y = input("Enter Number Two : ")
 
 
-result = int(y) / int(y)
+result = int(y) - int(y)
 print(result)

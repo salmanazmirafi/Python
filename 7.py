@@ -34,4 +34,5 @@
 #
 name = ["Salman", "Sonia", "Rafi", "Abdullah", " Albi", "Jon De"]
 cahck_item = "sonia" not in name
+cahck_item = "sonia" in name
 print(cahck_item)
