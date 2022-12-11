@@ -19,3 +19,6 @@ Python is commonly used for developing websites and software, task automation, d
 
 * Everyday tasks
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Thanks+For+Visiting+My+Repository;5%2B+years+of+coding+experience;Always+learning+new+things">
+</p>
