@@ -1,6 +1,6 @@
 # # # --------------Chapter -09 Dictionary in python------------------
 
-3 hors 29 minites 39 secend
+# 3 hors 29 minutes 39 second
 # creating Dictionary
 
 
@@ -11,4 +11,3 @@
 
 
 # changing on item's value
-
