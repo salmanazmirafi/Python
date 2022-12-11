@@ -1,4 +1,4 @@
-# # # --------------Chapter -09 user input in python------------------
+# # # --------------Chapter -07 Array in python------------------
 # #
 # # # -----Array-------
 # #

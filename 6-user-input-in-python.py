@@ -1,4 +1,4 @@
-# --------------Chapter -08 user input in python------------------
+# --------------Chapter -06 user input in python------------------
 
 # name = input("Enter Your Name")
 # email = input("Enter Your Email")
